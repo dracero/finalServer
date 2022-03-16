@@ -123,6 +123,7 @@ app.use(session({
     saveUninitialized: false,
     rolling: true,
     cookie: {
+        cookie: { domain: 'http://localhost:3000' },
         maxAge: 60000
     }
 }));

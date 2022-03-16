@@ -31,7 +31,7 @@ const getProducts = (req, res, next) => {
     }
 
     productModel.find( {} ).lean()
-        .then((productos) => res.render("products", {productos}))
+        .then((productos) => res.send(producto))
         .catch((err) => res.send(err))
 }
 

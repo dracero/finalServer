@@ -1,8 +1,9 @@
 const express = require('express');
 const passport = require('passport');
-
+const cors = require('cors')
 const router = express.Router();
-
+const app = express();
+app.use(cors())
 const mainController = require('../controllers/mainController');
 
 
@@ -12,7 +13,7 @@ const mainController = require('../controllers/mainController');
 router.get('/login', mainController.LoginOk);
 
 router.post('/login', passport.authenticate(['login','jwt'], {session: false , 
-                                                        //successRedirect: '/api/auth/login',
+                                                        //successRedirect: '/api/auth/successLogin',
                                                         failureRedirect: '/api/auth/faillogin'
                                                         }),  mainController.logUser); // ,  mainController.Redirect
 

@@ -1,9 +1,11 @@
 const express = require('express');
+const cors = require('cors')
 const handlebars = require('express-handlebars');
 require('../middleware/auth');
 
 const mainRoutes = require('../routes/index');
 const app = express();
+app.use(cors())
 
 app.engine(
     "hbs", 
