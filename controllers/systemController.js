@@ -1,12 +1,15 @@
+const os = require('os')
+
 const getInfo = (req, res) => {
     res.render("info", {
         argEntrada: process.argv, 
         os: process.platform, 
         nodeVs: process.version, 
-        memoryUsage: process.memoryUsage(), 
+        memoryUsage: os.totalmem(), 
         excPath: process.execPath, 
         processID: process.pid, 
-        folder: process.cwd()
+        folder: process.cwd(),
+        numCPUs: os.cpus().length
        });
 };
 
