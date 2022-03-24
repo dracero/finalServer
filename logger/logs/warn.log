@@ -1,0 +1,2380 @@
+{
+  message: 'Worker PID: 5104 died 23/3/2022 21:08:40',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:40.857Z'
+}
+{
+  message: 'Worker PID: 12184 died 23/3/2022 21:08:40',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:40.866Z'
+}
+{
+  message: 'Worker PID: 2868 died 23/3/2022 21:08:40',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:40.872Z'
+}
+{
+  message: 'Worker PID: 7032 died 23/3/2022 21:08:40',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:40.879Z'
+}
+{
+  message: 'Worker PID: 6464 died 23/3/2022 21:08:40',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:40.884Z'
+}
+{
+  message: 'Worker PID: 5956 died 23/3/2022 21:08:40',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:40.893Z'
+}
+{
+  message: 'Worker PID: 9140 died 23/3/2022 21:08:40',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:40.899Z'
+}
+{
+  message: 'Worker PID: 5168 died 23/3/2022 21:08:40',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:40.906Z'
+}
+{
+  message: 'Worker PID: 9556 died 23/3/2022 21:08:40',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:40.913Z'
+}
+{
+  message: 'Worker PID: 1412 died 23/3/2022 21:08:40',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:40.921Z'
+}
+{
+  message: 'Worker PID: 32 died 23/3/2022 21:08:40',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:40.928Z'
+}
+{
+  message: 'Worker PID: 3120 died 23/3/2022 21:08:40',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:40.935Z'
+}
+{
+  message: 'Worker PID: 3724 died 23/3/2022 21:08:42',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:42.137Z'
+}
+{
+  message: 'Worker PID: 8660 died 23/3/2022 21:08:42',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:42.215Z'
+}
+{
+  message: 'Worker PID: 3096 died 23/3/2022 21:08:42',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:42.229Z'
+}
+{
+  message: 'Worker PID: 11480 died 23/3/2022 21:08:42',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:42.243Z'
+}
+{
+  message: 'Worker PID: 9656 died 23/3/2022 21:08:42',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:42.253Z'
+}
+{
+  message: 'Worker PID: 12212 died 23/3/2022 21:08:42',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:42.260Z'
+}
+{
+  message: 'Worker PID: 12140 died 23/3/2022 21:08:42',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:42.266Z'
+}
+{
+  message: 'Worker PID: 1688 died 23/3/2022 21:08:42',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:42.274Z'
+}
+{
+  message: 'Worker PID: 5220 died 23/3/2022 21:08:42',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:42.287Z'
+}
+{
+  message: 'Worker PID: 1228 died 23/3/2022 21:08:42',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:42.293Z'
+}
+{
+  message: 'Worker PID: 276 died 23/3/2022 21:08:42',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:42.308Z'
+}
+{
+  message: 'Worker PID: 10592 died 23/3/2022 21:08:42',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:42.339Z'
+}
+{
+  message: 'Worker PID: 2820 died 23/3/2022 21:08:43',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:43.512Z'
+}
+{
+  message: 'Worker PID: 6640 died 23/3/2022 21:08:43',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:43.547Z'
+}
+{
+  message: 'Worker PID: 6616 died 23/3/2022 21:08:43',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:43.561Z'
+}
+{
+  message: 'Worker PID: 12076 died 23/3/2022 21:08:43',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:43.567Z'
+}
+{
+  message: 'Worker PID: 11688 died 23/3/2022 21:08:43',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:43.602Z'
+}
+{
+  message: 'Worker PID: 6040 died 23/3/2022 21:08:43',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:43.610Z'
+}
+{
+  message: 'Worker PID: 3208 died 23/3/2022 21:08:43',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:43.620Z'
+}
+{
+  message: 'Worker PID: 10980 died 23/3/2022 21:08:43',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:43.626Z'
+}
+{
+  message: 'Worker PID: 3792 died 23/3/2022 21:08:43',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:43.632Z'
+}
+{
+  message: 'Worker PID: 6196 died 23/3/2022 21:08:43',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:43.638Z'
+}
+{
+  message: 'Worker PID: 6908 died 23/3/2022 21:08:43',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:43.647Z'
+}
+{
+  message: 'Worker PID: 11452 died 23/3/2022 21:08:43',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:43.656Z'
+}
+{
+  message: 'Worker PID: 8784 died 23/3/2022 21:08:44',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:44.854Z'
+}
+{
+  message: 'Worker PID: 10108 died 23/3/2022 21:08:44',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:44.888Z'
+}
+{
+  message: 'Worker PID: 11076 died 23/3/2022 21:08:44',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:44.921Z'
+}
+{
+  message: 'Worker PID: 12184 died 23/3/2022 21:08:44',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:44.932Z'
+}
+{
+  message: 'Worker PID: 2148 died 23/3/2022 21:08:44',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:44.969Z'
+}
+{
+  message: 'Worker PID: 4504 died 23/3/2022 21:08:44',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:44.977Z'
+}
+{
+  message: 'Worker PID: 5776 died 23/3/2022 21:08:44',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:44.984Z'
+}
+{
+  message: 'Worker PID: 8696 died 23/3/2022 21:08:44',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:44.993Z'
+}
+{
+  message: 'Worker PID: 9140 died 23/3/2022 21:08:44',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:44.999Z'
+}
+{
+  message: 'Worker PID: 1496 died 23/3/2022 21:08:45',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:45.008Z'
+}
+{
+  message: 'Worker PID: 8216 died 23/3/2022 21:08:45',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:45.014Z'
+}
+{
+  message: 'Worker PID: 32 died 23/3/2022 21:08:45',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:45.021Z'
+}
+{
+  message: 'Worker PID: 4856 died 23/3/2022 21:08:46',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:46.214Z'
+}
+{
+  message: 'Worker PID: 9284 died 23/3/2022 21:08:46',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:46.242Z'
+}
+{
+  message: 'Worker PID: 3096 died 23/3/2022 21:08:46',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:46.332Z'
+}
+{
+  message: 'Worker PID: 5220 died 23/3/2022 21:08:46',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:46.372Z'
+}
+{
+  message: 'Worker PID: 1688 died 23/3/2022 21:08:46',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:46.415Z'
+}
+{
+  message: 'Worker PID: 7748 died 23/3/2022 21:08:46',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:46.432Z'
+}
+{
+  message: 'Worker PID: 9728 died 23/3/2022 21:08:46',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:46.445Z'
+}
+{
+  message: 'Worker PID: 11852 died 23/3/2022 21:08:46',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:46.451Z'
+}
+{
+  message: 'Worker PID: 12124 died 23/3/2022 21:08:46',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:46.458Z'
+}
+{
+  message: 'Worker PID: 4728 died 23/3/2022 21:08:46',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:46.464Z'
+}
+{
+  message: 'Worker PID: 2612 died 23/3/2022 21:08:46',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:46.473Z'
+}
+{
+  message: 'Worker PID: 8332 died 23/3/2022 21:08:46',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:46.479Z'
+}
+{
+  message: 'Worker PID: 10108 died 23/3/2022 21:08:47',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:47.575Z'
+}
+{
+  message: 'Worker PID: 6584 died 23/3/2022 21:08:47',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:47.637Z'
+}
+{
+  message: 'Worker PID: 11944 died 23/3/2022 21:08:47',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:47.646Z'
+}
+{
+  message: 'Worker PID: 6028 died 23/3/2022 21:08:47',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:47.724Z'
+}
+{
+  message: 'Worker PID: 5096 died 23/3/2022 21:08:47',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:47.804Z'
+}
+{
+  message: 'Worker PID: 9008 died 23/3/2022 21:08:47',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:47.812Z'
+}
+{
+  message: 'Worker PID: 6080 died 23/3/2022 21:08:47',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:47.833Z'
+}
+{
+  message: 'Worker PID: 12180 died 23/3/2022 21:08:47',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:47.844Z'
+}
+{
+  message: 'Worker PID: 9092 died 23/3/2022 21:08:47',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:47.850Z'
+}
+{
+  message: 'Worker PID: 11784 died 23/3/2022 21:08:47',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:47.877Z'
+}
+{
+  message: 'Worker PID: 9972 died 23/3/2022 21:08:47',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:47.891Z'
+}
+{
+  message: 'Worker PID: 6520 died 23/3/2022 21:08:47',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:47.897Z'
+}
+{
+  message: 'Worker PID: 8360 died 23/3/2022 21:08:48',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:48.873Z'
+}
+{
+  message: 'Worker PID: 7092 died 23/3/2022 21:08:48',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:48.935Z'
+}
+{
+  message: 'Worker PID: 6692 died 23/3/2022 21:08:48',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:48.963Z'
+}
+{
+  message: 'Worker PID: 2456 died 23/3/2022 21:08:49',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:49.058Z'
+}
+{
+  message: 'Worker PID: 2104 died 23/3/2022 21:08:49',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:49.137Z'
+}
+{
+  message: 'Worker PID: 5972 died 23/3/2022 21:08:49',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:49.168Z'
+}
+{
+  message: 'Worker PID: 6200 died 23/3/2022 21:08:49',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:49.180Z'
+}
+{
+  message: 'Worker PID: 3624 died 23/3/2022 21:08:49',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:49.187Z'
+}
+{
+  message: 'Worker PID: 7504 died 23/3/2022 21:08:49',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:49.204Z'
+}
+{
+  message: 'Worker PID: 6256 died 23/3/2022 21:08:49',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:49.217Z'
+}
+{
+  message: 'Worker PID: 8016 died 23/3/2022 21:08:49',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:49.238Z'
+}
+{
+  message: 'Worker PID: 2152 died 23/3/2022 21:08:49',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:49.252Z'
+}
+{
+  message: 'Worker PID: 3260 died 23/3/2022 21:08:50',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:50.221Z'
+}
+{
+  message: 'Worker PID: 10968 died 23/3/2022 21:08:50',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:50.276Z'
+}
+{
+  message: 'Worker PID: 11876 died 23/3/2022 21:08:50',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:50.299Z'
+}
+{
+  message: 'Worker PID: 1040 died 23/3/2022 21:08:55',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:56.032Z'
+}
+{
+  message: 'Worker PID: 7088 died 23/3/2022 21:08:56',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:56.049Z'
+}
+{
+  message: 'Worker PID: 648 died 23/3/2022 21:08:56',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:56.058Z'
+}
+{
+  message: 'Worker PID: 9500 died 23/3/2022 21:08:56',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:56.071Z'
+}
+{
+  message: 'Worker PID: 11880 died 23/3/2022 21:08:56',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:56.080Z'
+}
+{
+  message: 'Worker PID: 8428 died 23/3/2022 21:08:56',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:56.089Z'
+}
+{
+  message: 'Worker PID: 8332 died 23/3/2022 21:08:56',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:56.097Z'
+}
+{
+  message: 'Worker PID: 8408 died 23/3/2022 21:08:56',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:56.104Z'
+}
+{
+  message: 'Worker PID: 9240 died 23/3/2022 21:08:56',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:56.112Z'
+}
+{
+  message: 'Worker PID: 11312 died 23/3/2022 21:08:56',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:56.118Z'
+}
+{
+  message: 'Worker PID: 4756 died 23/3/2022 21:08:56',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:56.128Z'
+}
+{
+  message: 'Worker PID: 9336 died 23/3/2022 21:08:56',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:56.135Z'
+}
+{
+  message: 'Worker PID: 6576 died 23/3/2022 21:08:57',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:57.399Z'
+}
+{
+  message: 'Worker PID: 3376 died 23/3/2022 21:08:57',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:57.421Z'
+}
+{
+  message: 'Worker PID: 11956 died 23/3/2022 21:08:57',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:57.436Z'
+}
+{
+  message: 'Worker PID: 6040 died 23/3/2022 21:08:57',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:57.473Z'
+}
+{
+  message: 'Worker PID: 11064 died 23/3/2022 21:08:57',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:57.483Z'
+}
+{
+  message: 'Worker PID: 8940 died 23/3/2022 21:08:57',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:57.497Z'
+}
+{
+  message: 'Worker PID: 9004 died 23/3/2022 21:08:57',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:57.504Z'
+}
+{
+  message: 'Worker PID: 10212 died 23/3/2022 21:08:57',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:57.510Z'
+}
+{
+  message: 'Worker PID: 2892 died 23/3/2022 21:08:57',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:57.516Z'
+}
+{
+  message: 'Worker PID: 7928 died 23/3/2022 21:08:57',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:57.523Z'
+}
+{
+  message: 'Worker PID: 5984 died 23/3/2022 21:08:57',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:57.530Z'
+}
+{
+  message: 'Worker PID: 11180 died 23/3/2022 21:08:57',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:57.537Z'
+}
+{
+  message: 'Worker PID: 1040 died 23/3/2022 21:08:58',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:58.718Z'
+}
+{
+  message: 'Worker PID: 6080 died 23/3/2022 21:08:58',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:58.726Z'
+}
+{
+  message: 'Worker PID: 6528 died 23/3/2022 21:08:58',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:58.773Z'
+}
+{
+  message: 'Worker PID: 6464 died 23/3/2022 21:08:58',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:58.783Z'
+}
+{
+  message: 'Worker PID: 9052 died 23/3/2022 21:08:58',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:58.812Z'
+}
+{
+  message: 'Worker PID: 8788 died 23/3/2022 21:08:58',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:58.818Z'
+}
+{
+  message: 'Worker PID: 12240 died 23/3/2022 21:08:58',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:58.825Z'
+}
+{
+  message: 'Worker PID: 6640 died 23/3/2022 21:08:58',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:58.837Z'
+}
+{
+  message: 'Worker PID: 7916 died 23/3/2022 21:08:58',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:58.895Z'
+}
+{
+  message: 'Worker PID: 3120 died 23/3/2022 21:08:58',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:58.902Z'
+}
+{
+  message: 'Worker PID: 7912 died 23/3/2022 21:08:58',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:58.924Z'
+}
+{
+  message: 'Worker PID: 8428 died 23/3/2022 21:08:58',
+  level: 'warn',
+  timestamp: '2022-03-24T00:08:58.938Z'
+}
+{
+  message: 'Worker PID: 10336 died 23/3/2022 21:09:00',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:00.014Z'
+}
+{
+  message: 'Worker PID: 9008 died 23/3/2022 21:09:00',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:00.049Z'
+}
+{
+  message: 'Worker PID: 9472 died 23/3/2022 21:09:00',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:00.084Z'
+}
+{
+  message: 'Worker PID: 11956 died 23/3/2022 21:09:00',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:00.123Z'
+}
+{
+  message: 'Worker PID: 1376 died 23/3/2022 21:09:00',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:00.146Z'
+}
+{
+  message: 'Worker PID: 3268 died 23/3/2022 21:09:00',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:00.153Z'
+}
+{
+  message: 'Worker PID: 2620 died 23/3/2022 21:09:00',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:00.160Z'
+}
+{
+  message: 'Worker PID: 8760 died 23/3/2022 21:09:00',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:00.166Z'
+}
+{
+  message: 'Worker PID: 4820 died 23/3/2022 21:09:00',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:00.220Z'
+}
+{
+  message: 'Worker PID: 7936 died 23/3/2022 21:09:00',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:00.278Z'
+}
+{
+  message: 'Worker PID: 2116 died 23/3/2022 21:09:00',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:00.297Z'
+}
+{
+  message: 'Worker PID: 1324 died 23/3/2022 21:09:00',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:00.303Z'
+}
+{
+  message: 'Worker PID: 8940 died 23/3/2022 21:09:01',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:01.381Z'
+}
+{
+  message: 'Worker PID: 10212 died 23/3/2022 21:09:01',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:01.388Z'
+}
+{
+  message: 'Worker PID: 12192 died 23/3/2022 21:09:01',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:01.449Z'
+}
+{
+  message: 'Worker PID: 8812 died 23/3/2022 21:09:01',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:01.461Z'
+}
+{
+  message: 'Worker PID: 11556 died 23/3/2022 21:09:01',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:01.467Z'
+}
+{
+  message: 'Worker PID: 4728 died 23/3/2022 21:09:01',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:01.474Z'
+}
+{
+  message: 'Worker PID: 11496 died 23/3/2022 21:09:01',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:01.480Z'
+}
+{
+  message: 'Worker PID: 9020 died 23/3/2022 21:09:01',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:01.487Z'
+}
+{
+  message: 'Worker PID: 9932 died 23/3/2022 21:09:01',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:01.576Z'
+}
+{
+  message: 'Worker PID: 5920 died 23/3/2022 21:09:01',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:01.583Z'
+}
+{
+  message: 'Worker PID: 11440 died 23/3/2022 21:09:01',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:01.591Z'
+}
+{
+  message: 'Worker PID: 6772 died 23/3/2022 21:09:01',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:01.626Z'
+}
+{
+  message: 'Worker PID: 6132 died 23/3/2022 21:09:02',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:02.757Z'
+}
+{
+  message: 'Worker PID: 10016 died 23/3/2022 21:09:02',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:02.809Z'
+}
+{
+  message: 'Worker PID: 12044 died 23/3/2022 21:09:02',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:02.844Z'
+}
+{
+  message: 'Worker PID: 1064 died 23/3/2022 21:09:02',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:02.858Z'
+}
+{
+  message: 'Worker PID: 9556 died 23/3/2022 21:09:02',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:02.864Z'
+}
+{
+  message: 'Worker PID: 10108 died 23/3/2022 21:09:02',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:02.871Z'
+}
+{
+  message: 'Worker PID: 4016 died 23/3/2022 21:09:02',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:02.896Z'
+}
+{
+  message: 'Worker PID: 3404 died 23/3/2022 21:09:02',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:02.906Z'
+}
+{
+  message: 'Worker PID: 12252 died 23/3/2022 21:09:02',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:02.916Z'
+}
+{
+  message: 'Worker PID: 1116 died 23/3/2022 21:09:02',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:02.937Z'
+}
+{
+  message: 'Worker PID: 3232 died 23/3/2022 21:09:02',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:02.946Z'
+}
+{
+  message: 'Worker PID: 6272 died 23/3/2022 21:09:03',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:03.040Z'
+}
+{
+  message: 'Worker PID: 8088 died 23/3/2022 21:09:04',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:04.050Z'
+}
+{
+  message: 'Worker PID: 9268 died 23/3/2022 21:09:04',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:04.162Z'
+}
+{
+  message: 'Worker PID: 5156 died 23/3/2022 21:09:04',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:04.168Z'
+}
+{
+  message: 'Worker PID: 2444 died 23/3/2022 21:09:04',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:04.175Z'
+}
+{
+  message: 'Worker PID: 3036 died 23/3/2022 21:09:04',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:04.186Z'
+}
+{
+  message: 'Worker PID: 11452 died 23/3/2022 21:09:04',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:04.227Z'
+}
+{
+  message: 'Worker PID: 11852 died 23/3/2022 21:09:04',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:04.263Z'
+}
+{
+  message: 'Worker PID: 2232 died 23/3/2022 21:09:04',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:04.303Z'
+}
+{
+  message: 'Worker PID: 10512 died 23/3/2022 21:09:04',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:04.311Z'
+}
+{
+  message: 'Worker PID: 9652 died 23/3/2022 21:09:04',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:04.337Z'
+}
+{
+  message: 'Worker PID: 10480 died 23/3/2022 21:09:04',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:04.350Z'
+}
+{
+  message: 'Worker PID: 6460 died 23/3/2022 21:09:04',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:04.408Z'
+}
+{
+  message: 'Worker PID: 2804 died 23/3/2022 21:09:05',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:05.428Z'
+}
+{
+  message: 'Worker PID: 6576 died 23/3/2022 21:09:05',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:05.491Z'
+}
+{
+  message: 'Worker PID: 11536 died 23/3/2022 21:09:05',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:05.525Z'
+}
+{
+  message: 'Worker PID: 9976 died 23/3/2022 21:09:05',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:05.561Z'
+}
+{
+  message: 'Worker PID: 4048 died 23/3/2022 21:09:05',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:05.605Z'
+}
+{
+  message: 'Worker PID: 7832 died 23/3/2022 21:09:05',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:05.650Z'
+}
+{
+  message: 'Worker PID: 692 died 23/3/2022 21:09:05',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:05.678Z'
+}
+{
+  message: 'Worker PID: 10592 died 23/3/2022 21:09:05',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:05.685Z'
+}
+{
+  message: 'Worker PID: 2372 died 23/3/2022 21:09:05',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:05.709Z'
+}
+{
+  message: 'Worker PID: 4192 died 23/3/2022 21:09:05',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:05.716Z'
+}
+{
+  message: 'Worker PID: 9760 died 23/3/2022 21:09:05',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:05.751Z'
+}
+{
+  message: 'Worker PID: 6384 died 23/3/2022 21:09:05',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:05.773Z'
+}
+{
+  message: 'Worker PID: 11852 died 23/3/2022 21:09:27',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:27.166Z'
+}
+{
+  message: 'Worker PID: 11768 died 23/3/2022 21:09:27',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:27.219Z'
+}
+{
+  message: 'Worker PID: 4608 died 23/3/2022 21:09:27',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:27.232Z'
+}
+{
+  message: 'Worker PID: 2444 died 23/3/2022 21:09:27',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:27.239Z'
+}
+{
+  message: 'Worker PID: 1116 died 23/3/2022 21:09:27',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:27.287Z'
+}
+{
+  message: 'Worker PID: 4044 died 23/3/2022 21:09:27',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:27.294Z'
+}
+{
+  message: 'Worker PID: 1316 died 23/3/2022 21:09:27',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:27.313Z'
+}
+{
+  message: 'Worker PID: 11532 died 23/3/2022 21:09:27',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:27.338Z'
+}
+{
+  message: 'Worker PID: 2244 died 23/3/2022 21:09:27',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:27.345Z'
+}
+{
+  message: 'Worker PID: 6776 died 23/3/2022 21:09:27',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:27.354Z'
+}
+{
+  message: 'Worker PID: 2532 died 23/3/2022 21:09:27',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:27.364Z'
+}
+{
+  message: 'Worker PID: 1672 died 23/3/2022 21:09:27',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:27.382Z'
+}
+{
+  message: 'Worker PID: 760 died 23/3/2022 21:09:29',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:29.139Z'
+}
+{
+  message: 'Worker PID: 9444 died 23/3/2022 21:09:29',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:29.211Z'
+}
+{
+  message: 'Worker PID: 10256 died 23/3/2022 21:09:29',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:29.240Z'
+}
+{
+  message: 'Worker PID: 10428 died 23/3/2022 21:09:29',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:29.290Z'
+}
+{
+  message: 'Worker PID: 11492 died 23/3/2022 21:09:29',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:29.363Z'
+}
+{
+  message: 'Worker PID: 1508 died 23/3/2022 21:09:29',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:29.412Z'
+}
+{
+  message: 'Worker PID: 4192 died 23/3/2022 21:09:29',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:29.439Z'
+}
+{
+  message: 'Worker PID: 8660 died 23/3/2022 21:09:29',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:29.447Z'
+}
+{
+  message: 'Worker PID: 3280 died 23/3/2022 21:09:29',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:29.453Z'
+}
+{
+  message: 'Worker PID: 3948 died 23/3/2022 21:09:29',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:29.496Z'
+}
+{
+  message: 'Worker PID: 5724 died 23/3/2022 21:09:29',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:29.530Z'
+}
+{
+  message: 'Worker PID: 1496 died 23/3/2022 21:09:29',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:29.543Z'
+}
+{
+  message: 'Worker PID: 860 died 23/3/2022 21:09:31',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:31.209Z'
+}
+{
+  message: 'Worker PID: 5720 died 23/3/2022 21:09:31',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:31.287Z'
+}
+{
+  message: 'Worker PID: 2468 died 23/3/2022 21:09:31',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:31.328Z'
+}
+{
+  message: 'Worker PID: 2936 died 23/3/2022 21:09:31',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:31.362Z'
+}
+{
+  message: 'Worker PID: 9480 died 23/3/2022 21:09:31',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:31.399Z'
+}
+{
+  message: 'Worker PID: 3624 died 23/3/2022 21:09:31',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:31.406Z'
+}
+{
+  message: 'Worker PID: 9932 died 23/3/2022 21:09:31',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:31.443Z'
+}
+{
+  message: 'Worker PID: 10312 died 23/3/2022 21:09:31',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:31.523Z'
+}
+{
+  message: 'Worker PID: 7472 died 23/3/2022 21:09:31',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:31.559Z'
+}
+{
+  message: 'Worker PID: 11228 died 23/3/2022 21:09:31',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:31.645Z'
+}
+{
+  message: 'Worker PID: 4820 died 23/3/2022 21:09:31',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:31.694Z'
+}
+{
+  message: 'Worker PID: 1980 died 23/3/2022 21:09:31',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:31.729Z'
+}
+{
+  message: 'Worker PID: 7912 died 23/3/2022 21:09:33',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:33.011Z'
+}
+{
+  message: 'Worker PID: 6408 died 23/3/2022 21:09:33',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:33.045Z'
+}
+{
+  message: 'Worker PID: 10256 died 23/3/2022 21:09:33',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:33.139Z'
+}
+{
+  message: 'Worker PID: 7616 died 23/3/2022 21:09:33',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:33.194Z'
+}
+{
+  message: 'Worker PID: 11748 died 23/3/2022 21:09:33',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:33.241Z'
+}
+{
+  message: 'Worker PID: 7852 died 23/3/2022 21:09:33',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:33.267Z'
+}
+{
+  message: 'Worker PID: 7832 died 23/3/2022 21:09:33',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:33.300Z'
+}
+{
+  message: 'Worker PID: 5808 died 23/3/2022 21:09:33',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:33.341Z'
+}
+{
+  message: 'Worker PID: 5272 died 23/3/2022 21:09:33',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:33.387Z'
+}
+{
+  message: 'Worker PID: 10704 died 23/3/2022 21:09:33',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:33.440Z'
+}
+{
+  message: 'Worker PID: 10848 died 23/3/2022 21:09:33',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:33.453Z'
+}
+{
+  message: 'Worker PID: 12132 died 23/3/2022 21:09:33',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:33.548Z'
+}
+{
+  message: 'Worker PID: 6108 died 23/3/2022 21:09:34',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:34.732Z'
+}
+{
+  message: 'Worker PID: 5724 died 23/3/2022 21:09:34',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:34.808Z'
+}
+{
+  message: 'Worker PID: 6292 died 23/3/2022 21:09:34',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:34.958Z'
+}
+{
+  message: 'Worker PID: 6976 died 23/3/2022 21:09:34',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:34.999Z'
+}
+{
+  message: 'Worker PID: 2468 died 23/3/2022 21:09:35',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:35.045Z'
+}
+{
+  message: 'Worker PID: 11984 died 23/3/2022 21:09:35',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:35.115Z'
+}
+{
+  message: 'Worker PID: 6200 died 23/3/2022 21:09:35',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:35.149Z'
+}
+{
+  message: 'Worker PID: 6228 died 23/3/2022 21:09:35',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:35.228Z'
+}
+{
+  message: 'Worker PID: 11440 died 23/3/2022 21:09:35',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:35.271Z'
+}
+{
+  message: 'Worker PID: 11768 died 23/3/2022 21:09:35',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:35.284Z'
+}
+{
+  message: 'Worker PID: 5084 died 23/3/2022 21:09:35',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:35.301Z'
+}
+{
+  message: 'Worker PID: 7928 died 23/3/2022 21:09:35',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:35.326Z'
+}
+{
+  message: 'Worker PID: 10484 died 23/3/2022 21:09:36',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:36.549Z'
+}
+{
+  message: 'Worker PID: 8644 died 23/3/2022 21:09:36',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:36.561Z'
+}
+{
+  message: 'Worker PID: 1376 died 23/3/2022 21:09:36',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:36.673Z'
+}
+{
+  message: 'Worker PID: 12240 died 23/3/2022 21:09:36',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:36.744Z'
+}
+{
+  message: 'Worker PID: 280 died 23/3/2022 21:09:36',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:36.774Z'
+}
+{
+  message: 'Worker PID: 10996 died 23/3/2022 21:09:36',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:36.833Z'
+}
+{
+  message: 'Worker PID: 6084 died 23/3/2022 21:09:36',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:36.958Z'
+}
+{
+  message: 'Worker PID: 9340 died 23/3/2022 21:09:36',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:36.997Z'
+}
+{
+  message: 'Worker PID: 4908 died 23/3/2022 21:09:37',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:37.040Z'
+}
+{
+  message: 'Worker PID: 8788 died 23/3/2022 21:09:37',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:37.059Z'
+}
+{
+  message: 'Worker PID: 6824 died 23/3/2022 21:09:37',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:37.070Z'
+}
+{
+  message: 'Worker PID: 5692 died 23/3/2022 21:09:37',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:37.088Z'
+}
+{
+  message: 'Worker PID: 3796 died 23/3/2022 21:09:38',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:38.321Z'
+}
+{
+  message: 'Worker PID: 1688 died 23/3/2022 21:09:38',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:38.426Z'
+}
+{
+  message: 'Worker PID: 11080 died 23/3/2022 21:09:38',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:38.502Z'
+}
+{
+  message: 'Worker PID: 9412 died 23/3/2022 21:09:38',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:38.545Z'
+}
+{
+  message: 'Worker PID: 6544 died 23/3/2022 21:09:38',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:38.563Z'
+}
+{
+  message: 'Worker PID: 5720 died 23/3/2022 21:09:38',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:38.619Z'
+}
+{
+  message: 'Worker PID: 9728 died 23/3/2022 21:09:38',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:38.735Z'
+}
+{
+  message: 'Worker PID: 2468 died 23/3/2022 21:09:38',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:38.790Z'
+}
+{
+  message: 'Worker PID: 9020 died 23/3/2022 21:09:38',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:38.898Z'
+}
+{
+  message: 'Worker PID: 12076 died 23/3/2022 21:09:38',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:38.924Z'
+}
+{
+  message: 'Worker PID: 4828 died 23/3/2022 21:09:38',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:38.981Z'
+}
+{
+  message: 'Worker PID: 12200 died 23/3/2022 21:09:38',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:38.989Z'
+}
+{
+  message: 'Worker PID: 2372 died 23/3/2022 21:09:40',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:40.161Z'
+}
+{
+  message: 'Worker PID: 10336 died 23/3/2022 21:09:40',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:40.211Z'
+}
+{
+  message: 'Worker PID: 7440 died 23/3/2022 21:09:40',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:40.279Z'
+}
+{
+  message: 'Worker PID: 9556 died 23/3/2022 21:09:40',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:40.306Z'
+}
+{
+  message: 'Worker PID: 11616 died 23/3/2022 21:09:40',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:40.349Z'
+}
+{
+  message: 'Worker PID: 12244 died 23/3/2022 21:09:40',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:40.462Z'
+}
+{
+  message: 'Worker PID: 2340 died 23/3/2022 21:09:40',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:40.520Z'
+}
+{
+  message: 'Worker PID: 10924 died 23/3/2022 21:09:40',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:40.594Z'
+}
+{
+  message: 'Worker PID: 1980 died 23/3/2022 21:09:40',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:40.661Z'
+}
+{
+  message: 'Worker PID: 11532 died 23/3/2022 21:09:40',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:40.740Z'
+}
+{
+  message: 'Worker PID: 832 died 23/3/2022 21:09:40',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:40.757Z'
+}
+{
+  message: 'Worker PID: 11236 died 23/3/2022 21:09:40',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:40.773Z'
+}
+{
+  message: 'Worker PID: 7880 died 23/3/2022 21:09:41',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:41.898Z'
+}
+{
+  message: 'Worker PID: 2244 died 23/3/2022 21:09:41',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:41.993Z'
+}
+{
+  message: 'Worker PID: 7832 died 23/3/2022 21:09:42',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:42.076Z'
+}
+{
+  message: 'Worker PID: 5724 died 23/3/2022 21:09:42',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:42.122Z'
+}
+{
+  message: 'Worker PID: 6976 died 23/3/2022 21:09:42',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:42.145Z'
+}
+{
+  message: 'Worker PID: 3992 died 23/3/2022 21:09:42',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:42.220Z'
+}
+{
+  message: 'Worker PID: 9796 died 23/3/2022 21:09:42',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:42.331Z'
+}
+{
+  message: 'Worker PID: 9808 died 23/3/2022 21:09:42',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:42.389Z'
+}
+{
+  message: 'Worker PID: 11952 died 23/3/2022 21:09:42',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:42.472Z'
+}
+{
+  message: 'Worker PID: 3948 died 23/3/2022 21:09:42',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:42.499Z'
+}
+{
+  message: 'Worker PID: 12200 died 23/3/2022 21:09:42',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:42.587Z'
+}
+{
+  message: 'Worker PID: 9392 died 23/3/2022 21:09:42',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:42.599Z'
+}
+{
+  message: 'Worker PID: 1508 died 23/3/2022 21:09:43',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:43.594Z'
+}
+{
+  message: 'Worker PID: 12252 died 23/3/2022 21:09:43',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:43.817Z'
+}
+{
+  message: 'Worker PID: 9016 died 23/3/2022 21:09:43',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:43.860Z'
+}
+{
+  message: 'Worker PID: 4908 died 23/3/2022 21:09:43',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:43.950Z'
+}
+{
+  message: 'Worker PID: 9868 died 23/3/2022 21:09:43',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:44.004Z'
+}
+{
+  message: 'Worker PID: 12080 died 23/3/2022 21:09:44',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:44.055Z'
+}
+{
+  message: 'Worker PID: 6824 died 23/3/2022 21:09:44',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:44.163Z'
+}
+{
+  message: 'Worker PID: 11532 died 23/3/2022 21:09:44',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:44.170Z'
+}
+{
+  message: 'Worker PID: 2516 died 23/3/2022 21:09:44',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:44.240Z'
+}
+{
+  message: 'Worker PID: 8812 died 23/3/2022 21:09:44',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:44.358Z'
+}
+{
+  message: 'Worker PID: 3096 died 23/3/2022 21:09:44',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:44.414Z'
+}
+{
+  message: 'Worker PID: 8880 died 23/3/2022 21:09:44',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:44.454Z'
+}
+{
+  message: 'Worker PID: 7832 died 23/3/2022 21:09:45',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:45.390Z'
+}
+{
+  message: 'Worker PID: 6256 died 23/3/2022 21:09:45',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:45.632Z'
+}
+{
+  message: 'Worker PID: 6584 died 23/3/2022 21:09:45',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:45.767Z'
+}
+{
+  message: 'Worker PID: 4584 died 23/3/2022 21:09:45',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:45.776Z'
+}
+{
+  message: 'Worker PID: 9436 died 23/3/2022 21:09:45',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:45.880Z'
+}
+{
+  message: 'Worker PID: 10480 died 23/3/2022 21:09:45',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:45.900Z'
+}
+{
+  message: 'Worker PID: 10016 died 23/3/2022 21:09:45',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:45.996Z'
+}
+{
+  message: 'Worker PID: 9972 died 23/3/2022 21:09:46',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:46.032Z'
+}
+{
+  message: 'Worker PID: 3948 died 23/3/2022 21:09:46',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:46.085Z'
+}
+{
+  message: 'Worker PID: 6640 died 23/3/2022 21:09:46',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:46.176Z'
+}
+{
+  message: 'Worker PID: 8692 died 23/3/2022 21:09:46',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:46.227Z'
+}
+{
+  message: 'Worker PID: 3280 died 23/3/2022 21:09:46',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:46.234Z'
+}
+{
+  message: 'Worker PID: 11944 died 23/3/2022 21:09:47',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:47.077Z'
+}
+{
+  message: 'Worker PID: 9804 died 23/3/2022 21:09:48',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:48.603Z'
+}
+{
+  message: 'Worker PID: 3988 died 23/3/2022 21:09:48',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:48.610Z'
+}
+{
+  message: 'Worker PID: 11236 died 23/3/2022 21:09:48',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:48.617Z'
+}
+{
+  message: 'Worker PID: 9736 died 23/3/2022 21:09:48',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:48.623Z'
+}
+{
+  message: 'Worker PID: 9008 died 23/3/2022 21:09:48',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:48.631Z'
+}
+{
+  message: 'Worker PID: 10428 died 23/3/2022 21:09:48',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:48.639Z'
+}
+{
+  message: 'Worker PID: 11632 died 23/3/2022 21:09:48',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:48.647Z'
+}
+{
+  message: 'Worker PID: 11076 died 23/3/2022 21:09:48',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:48.654Z'
+}
+{
+  message: 'Worker PID: 3624 died 23/3/2022 21:09:48',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:48.661Z'
+}
+{
+  message: 'Worker PID: 7036 died 23/3/2022 21:09:48',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:48.668Z'
+}
+{
+  message: 'Worker PID: 11756 died 23/3/2022 21:09:48',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:48.674Z'
+}
+{
+  message: 'Worker PID: 11768 died 23/3/2022 21:09:48',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:48.680Z'
+}
+{
+  message: 'Worker PID: 5704 died 23/3/2022 21:09:50',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:50.327Z'
+}
+{
+  message: 'Worker PID: 8016 died 23/3/2022 21:09:50',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:50.334Z'
+}
+{
+  message: 'Worker PID: 10088 died 23/3/2022 21:09:50',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:50.358Z'
+}
+{
+  message: 'Worker PID: 5692 died 23/3/2022 21:09:50',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:50.389Z'
+}
+{
+  message: 'Worker PID: 5264 died 23/3/2022 21:09:50',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:50.396Z'
+}
+{
+  message: 'Worker PID: 5272 died 23/3/2022 21:09:50',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:50.403Z'
+}
+{
+  message: 'Worker PID: 4116 died 23/3/2022 21:09:50',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:50.409Z'
+}
+{
+  message: 'Worker PID: 7496 died 23/3/2022 21:09:50',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:50.415Z'
+}
+{
+  message: 'Worker PID: 9972 died 23/3/2022 21:09:50',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:50.422Z'
+}
+{
+  message: 'Worker PID: 12244 died 23/3/2022 21:09:50',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:50.450Z'
+}
+{
+  message: 'Worker PID: 9664 died 23/3/2022 21:09:50',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:50.457Z'
+}
+{
+  message: 'Worker PID: 8716 died 23/3/2022 21:09:50',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:50.463Z'
+}
+{
+  message: 'Worker PID: 6132 died 23/3/2022 21:09:52',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:52.176Z'
+}
+{
+  message: 'Worker PID: 11284 died 23/3/2022 21:09:52',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:52.184Z'
+}
+{
+  message: 'Worker PID: 1496 died 23/3/2022 21:09:52',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:52.213Z'
+}
+{
+  message: 'Worker PID: 8360 died 23/3/2022 21:09:52',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:52.236Z'
+}
+{
+  message: 'Worker PID: 6584 died 23/3/2022 21:09:52',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:52.291Z'
+}
+{
+  message: 'Worker PID: 11064 died 23/3/2022 21:09:52',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:52.349Z'
+}
+{
+  message: 'Worker PID: 6408 died 23/3/2022 21:09:52',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:52.373Z'
+}
+{
+  message: 'Worker PID: 6976 died 23/3/2022 21:09:52',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:52.379Z'
+}
+{
+  message: 'Worker PID: 7880 died 23/3/2022 21:09:52',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:52.412Z'
+}
+{
+  message: 'Worker PID: 11792 died 23/3/2022 21:09:52',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:52.432Z'
+}
+{
+  message: 'Worker PID: 12192 died 23/3/2022 21:09:52',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:52.449Z'
+}
+{
+  message: 'Worker PID: 2532 died 23/3/2022 21:09:52',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:52.467Z'
+}
+{
+  message: 'Worker PID: 3992 died 23/3/2022 21:09:53',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:53.997Z'
+}
+{
+  message: 'Worker PID: 8692 died 23/3/2022 21:09:54',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:54.060Z'
+}
+{
+  message: 'Worker PID: 1048 died 23/3/2022 21:09:54',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:54.181Z'
+}
+{
+  message: 'Worker PID: 6532 died 23/3/2022 21:09:54',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:54.284Z'
+}
+{
+  message: 'Worker PID: 6464 died 23/3/2022 21:09:54',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:54.295Z'
+}
+{
+  message: 'Worker PID: 11616 died 23/3/2022 21:09:54',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:54.342Z'
+}
+{
+  message: 'Worker PID: 7748 died 23/3/2022 21:09:54',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:54.361Z'
+}
+{
+  message: 'Worker PID: 7272 died 23/3/2022 21:09:54',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:54.379Z'
+}
+{
+  message: 'Worker PID: 12076 died 23/3/2022 21:09:54',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:54.430Z'
+}
+{
+  message: 'Worker PID: 7992 died 23/3/2022 21:09:54',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:54.446Z'
+}
+{
+  message: 'Worker PID: 8520 died 23/3/2022 21:09:54',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:54.514Z'
+}
+{
+  message: 'Worker PID: 4584 died 23/3/2022 21:09:54',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:54.563Z'
+}
+{
+  message: 'Worker PID: 12144 died 23/3/2022 21:09:55',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:55.854Z'
+}
+{
+  message: 'Worker PID: 11076 died 23/3/2022 21:09:56',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:56.096Z'
+}
+{
+  message: 'Worker PID: 6120 died 23/3/2022 21:09:56',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:56.103Z'
+}
+{
+  message: 'Worker PID: 5756 died 23/3/2022 21:09:56',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:56.170Z'
+}
+{
+  message: 'Worker PID: 3560 died 23/3/2022 21:09:56',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:56.221Z'
+}
+{
+  message: 'Worker PID: 7804 died 23/3/2022 21:09:56',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:56.227Z'
+}
+{
+  message: 'Worker PID: 10420 died 23/3/2022 21:09:56',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:56.234Z'
+}
+{
+  message: 'Worker PID: 648 died 23/3/2022 21:09:56',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:56.265Z'
+}
+{
+  message: 'Worker PID: 5428 died 23/3/2022 21:09:56',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:56.381Z'
+}
+{
+  message: 'Worker PID: 10804 died 23/3/2022 21:09:56',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:56.388Z'
+}
+{
+  message: 'Worker PID: 3096 died 23/3/2022 21:09:56',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:56.394Z'
+}
+{
+  message: 'Worker PID: 8692 died 23/3/2022 21:09:56',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:56.448Z'
+}
+{
+  message: 'Worker PID: 1508 died 23/3/2022 21:09:57',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:57.672Z'
+}
+{
+  message: 'Worker PID: 5040 died 23/3/2022 21:09:57',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:57.979Z'
+}
+{
+  message: 'Worker PID: 9864 died 23/3/2022 21:09:58',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:58.029Z'
+}
+{
+  message: 'Worker PID: 3280 died 23/3/2022 21:09:58',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:58.068Z'
+}
+{
+  message: 'Worker PID: 4608 died 23/3/2022 21:09:58',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:58.084Z'
+}
+{
+  message: 'Worker PID: 7272 died 23/3/2022 21:09:58',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:58.128Z'
+}
+{
+  message: 'Worker PID: 9804 died 23/3/2022 21:09:58',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:58.143Z'
+}
+{
+  message: 'Worker PID: 4680 died 23/3/2022 21:09:58',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:58.174Z'
+}
+{
+  message: 'Worker PID: 1040 died 23/3/2022 21:09:58',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:58.209Z'
+}
+{
+  message: 'Worker PID: 2232 died 23/3/2022 21:09:58',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:58.294Z'
+}
+{
+  message: 'Worker PID: 11964 died 23/3/2022 21:09:58',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:58.302Z'
+}
+{
+  message: 'Worker PID: 7556 died 23/3/2022 21:09:58',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:58.340Z'
+}
+{
+  message: 'Worker PID: 2896 died 23/3/2022 21:09:59',
+  level: 'warn',
+  timestamp: '2022-03-24T00:09:59.794Z'
+}
+{
+  message: 'Worker PID: 10676 died 23/3/2022 21:10:00',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:00.210Z'
+}
+{
+  message: 'Worker PID: 3804 died 23/3/2022 21:10:00',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:00.242Z'
+}
+{
+  message: 'Worker PID: 1848 died 23/3/2022 21:10:00',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:00.379Z'
+}
+{
+  message: 'Worker PID: 6256 died 23/3/2022 21:10:00',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:00.401Z'
+}
+{
+  message: 'Worker PID: 9808 died 23/3/2022 21:10:00',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:00.432Z'
+}
+{
+  message: 'Worker PID: 8880 died 23/3/2022 21:10:00',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:00.474Z'
+}
+{
+  message: 'Worker PID: 8756 died 23/3/2022 21:10:00',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:00.524Z'
+}
+{
+  message: 'Worker PID: 7804 died 23/3/2022 21:10:00',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:00.531Z'
+}
+{
+  message: 'Worker PID: 3752 died 23/3/2022 21:10:00',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:00.541Z'
+}
+{
+  message: 'Worker PID: 7880 died 23/3/2022 21:10:00',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:00.645Z'
+}
+{
+  message: 'Worker PID: 10940 died 23/3/2022 21:10:00',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:00.742Z'
+}
+{
+  message: 'Worker PID: 4024 died 23/3/2022 21:10:02',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:02.000Z'
+}
+{
+  message: 'Worker PID: 4608 died 23/3/2022 21:10:02',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:02.180Z'
+}
+{
+  message: 'Worker PID: 6120 died 23/3/2022 21:10:02',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:02.430Z'
+}
+{
+  message: 'Worker PID: 6020 died 23/3/2022 21:10:02',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:02.509Z'
+}
+{
+  message: 'Worker PID: 2880 died 23/3/2022 21:10:02',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:02.581Z'
+}
+{
+  message: 'Worker PID: 3800 died 23/3/2022 21:10:02',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:02.594Z'
+}
+{
+  message: 'Worker PID: 6428 died 23/3/2022 21:10:02',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:02.613Z'
+}
+{
+  message: 'Worker PID: 7992 died 23/3/2022 21:10:02',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:02.699Z'
+}
+{
+  message: 'Worker PID: 11444 died 23/3/2022 21:10:02',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:02.742Z'
+}
+{
+  message: 'Worker PID: 10676 died 23/3/2022 21:10:02',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:02.799Z'
+}
+{
+  message: 'Worker PID: 9360 died 23/3/2022 21:10:02',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:02.826Z'
+}
+{
+  message: 'Worker PID: 7784 died 23/3/2022 21:10:02',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:02.999Z'
+}
+{
+  message: 'Worker PID: 8040 died 23/3/2022 21:10:03',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:03.916Z'
+}
+{
+  message: 'Worker PID: 9808 died 23/3/2022 21:10:04',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:04.146Z'
+}
+{
+  message: 'Worker PID: 6532 died 23/3/2022 21:10:04',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:04.351Z'
+}
+{
+  message: 'Worker PID: 648 died 23/3/2022 21:10:04',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:04.592Z'
+}
+{
+  message: 'Worker PID: 1048 died 23/3/2022 21:10:04',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:04.638Z'
+}
+{
+  message: 'Worker PID: 5824 died 23/3/2022 21:10:04',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:04.783Z'
+}
+{
+  message: 'Worker PID: 2920 died 23/3/2022 21:10:04',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:04.807Z'
+}
+{
+  message: 'Worker PID: 3096 died 23/3/2022 21:10:04',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:04.822Z'
+}
+{
+  message: 'Worker PID: 7880 died 23/3/2022 21:10:04',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:04.873Z'
+}
+{
+  message: 'Worker PID: 11616 died 23/3/2022 21:10:04',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:04.887Z'
+}
+{
+  message: 'Worker PID: 1720 died 23/3/2022 21:10:04',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:04.956Z'
+}
+{
+  message: 'Worker PID: 5232 died 23/3/2022 21:10:05',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:05.026Z'
+}
+{
+  message: 'Worker PID: 1376 died 23/3/2022 21:10:05',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:05.898Z'
+}
+{
+  message: 'Worker PID: 3204 died 23/3/2022 21:10:06',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:06.216Z'
+}
+{
+  message: 'Worker PID: 3012 died 23/3/2022 21:10:06',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:06.338Z'
+}
+{
+  message: 'Worker PID: 3948 died 23/3/2022 21:10:06',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:06.479Z'
+}
+{
+  message: 'Worker PID: 4768 died 23/3/2022 21:10:06',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:06.492Z'
+}
+{
+  message: 'Worker PID: 9676 died 23/3/2022 21:10:06',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:06.624Z'
+}
+{
+  message: 'Worker PID: 9180 died 23/3/2022 21:10:06',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:06.667Z'
+}
+{
+  message: 'Worker PID: 10320 died 23/3/2022 21:10:06',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:06.692Z'
+}
+{
+  message: 'Worker PID: 6256 died 23/3/2022 21:10:06',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:06.699Z'
+}
+{
+  message: 'Worker PID: 11540 died 23/3/2022 21:10:06',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:06.827Z'
+}
+{
+  message: 'Worker PID: 11672 died 23/3/2022 21:10:06',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:06.904Z'
+}
+{
+  message: 'Worker PID: 5724 died 23/3/2022 21:10:06',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:06.910Z'
+}
+{
+  message: 'Worker PID: 11616 died 23/3/2022 21:10:07',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:07.802Z'
+}
+{
+  message: 'Worker PID: 4116 died 23/3/2022 21:10:08',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:08.014Z'
+}
+{
+  message: 'Worker PID: 3408 died 23/3/2022 21:10:08',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:08.256Z'
+}
+{
+  message: 'Worker PID: 12180 died 23/3/2022 21:10:08',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:08.463Z'
+}
+{
+  message: 'Worker PID: 12192 died 23/3/2022 21:10:08',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:08.552Z'
+}
+{
+  message: 'Worker PID: 6120 died 23/3/2022 21:10:08',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:08.565Z'
+}
+{
+  message: 'Worker PID: 5540 died 23/3/2022 21:10:08',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:08.608Z'
+}
+{
+  message: 'Worker PID: 2480 died 23/3/2022 21:10:08',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:08.679Z'
+}
+{
+  message: 'Worker PID: 4888 died 23/3/2022 21:10:08',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:08.685Z'
+}
+{
+  message: 'Worker PID: 10524 died 23/3/2022 21:10:08',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:08.700Z'
+}
+{
+  message: 'Worker PID: 8216 died 23/3/2022 21:10:08',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:08.774Z'
+}
+{
+  message: 'Worker PID: 3204 died 23/3/2022 21:10:08',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:08.807Z'
+}
+{
+  message: 'Worker PID: 11768 died 23/3/2022 21:10:09',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:09.625Z'
+}
+{
+  message: 'Worker PID: 1252 died 23/3/2022 21:10:09',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:09.867Z'
+}
+{
+  message: 'Worker PID: 6020 died 23/3/2022 21:10:10',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:10.058Z'
+}
+{
+  message: 'Worker PID: 11860 died 23/3/2022 21:10:10',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:10.296Z'
+}
+{
+  message: 'Worker PID: 8360 died 23/3/2022 21:10:10',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:10.396Z'
+}
+{
+  message: 'Worker PID: 2612 died 23/3/2022 21:10:10',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:10.531Z'
+}
+{
+  message: 'Worker PID: 11428 died 23/3/2022 21:10:10',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:10.543Z'
+}
+{
+  message: 'Worker PID: 1200 died 23/3/2022 21:10:10',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:10.578Z'
+}
+{
+  message: 'Worker PID: 5724 died 23/3/2022 21:10:10',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:10.599Z'
+}
+{
+  message: 'Worker PID: 10836 died 23/3/2022 21:10:10',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:10.606Z'
+}
+{
+  message: 'Worker PID: 11616 died 23/3/2022 21:10:10',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:10.670Z'
+}
+{
+  message: 'Worker PID: 11792 died 23/3/2022 21:10:10',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:10.736Z'
+}
+{
+  message: 'Worker PID: 5824 died 23/3/2022 21:10:11',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:11.454Z'
+}
+{
+  message: 'Worker PID: 264 died 23/3/2022 21:10:11',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:11.679Z'
+}
+{
+  message: 'Worker PID: 156 died 23/3/2022 21:10:11',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:11.982Z'
+}
+{
+  message: 'Worker PID: 1472 died 23/3/2022 21:10:12',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:12.108Z'
+}
+{
+  message: 'Worker PID: 6452 died 23/3/2022 21:10:12',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:12.318Z'
+}
+{
+  message: 'Worker PID: 9288 died 23/3/2022 21:10:12',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:12.384Z'
+}
+{
+  message: 'Worker PID: 2244 died 23/3/2022 21:10:12',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:12.432Z'
+}
+{
+  message: 'Worker PID: 11532 died 23/3/2022 21:10:12',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:12.505Z'
+}
+{
+  message: 'Worker PID: 4828 died 23/3/2022 21:10:12',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:12.519Z'
+}
+{
+  message: 'Worker PID: 4800 died 23/3/2022 21:10:12',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:12.585Z'
+}
+{
+  message: 'Worker PID: 7496 died 23/3/2022 21:10:12',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:12.592Z'
+}
+{
+  message: 'Worker PID: 2800 died 23/3/2022 21:10:12',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:12.617Z'
+}
+{
+  message: 'Worker PID: 11784 died 23/3/2022 21:10:13',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:13.299Z'
+}
+{
+  message: 'Worker PID: 7152 died 23/3/2022 21:10:13',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:13.487Z'
+}
+{
+  message: 'Worker PID: 6524 died 23/3/2022 21:10:13',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:13.797Z'
+}
+{
+  message: 'Worker PID: 2896 died 23/3/2022 21:10:13',
+  level: 'warn',
+  timestamp: '2022-03-24T00:10:13.916Z'
+}
